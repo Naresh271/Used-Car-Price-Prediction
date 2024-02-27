@@ -24,15 +24,13 @@ GitHub: Version control and project hosting platform.
 
 
 Install dependencies:
+----------------
 Copy code
 pip install -r requirements.txt
 Run the Flask application:
 Copy code
 python app.py
 
-Open a web browser and go to http://localhost:5000 to access the application.
-
-Enter the required car details and click on the "Predict" button to get the estimated price.
 
 Contributing
 -------------
