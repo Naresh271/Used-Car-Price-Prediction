@@ -22,12 +22,6 @@ Machine Learning: Utilized scikit-learn library for building and training the pr
 
 GitHub: Version control and project hosting platform.
 
-Usage
------
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/predict-car-price.git
 
 Install dependencies:
 Copy code
